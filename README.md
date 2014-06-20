@@ -1,7 +1,7 @@
 cdcourseproject1
 ================
 
-READ ME 
+READ ME FILE 
 
    I downloaded the data and unzipped it before I started writting the scripts
    Data downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas      et.zip 
