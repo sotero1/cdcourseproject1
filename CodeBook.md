@@ -7,7 +7,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 Each variable is genereated by the following information
 
 Time or Frequency, Body or Gravity, Acceleration of Gyroscopic
-Jerk, Magnitude or Jerk Magnitud,  Mean or Standard  Deviation, Axis X, Y or Z, Activity names:SITTING,STANDING, WALKING DOWNSTAIRS,WALKING_UPSTAIRS
+Jerk, Magnitude or Jerk Magnitud,  Mean or Standard  Deviation, Axis X, Y or Z, Activity names:Laying,SITTING,STANDING,Walking, WALKING DOWNSTAIRS,WALKING_UPSTAIRS
 
 
 
