@@ -4,16 +4,14 @@ CODE BOOK COURSEPROJECT
 data downloaded from 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-Each column name is genereated by the following information
+Each variable is genereated by the following information
+
+Time or Frequency, Body or Gravity, Acceleration of Gyroscopic
+Jerk, Magnitude or Jerk Magnitud,  Mean or Standard  Deviation, Axis X, Y or Z, Activity names:SITTING,STANDING, WALKING DOWNSTAIRS,WALKING_UPSTAIRS
 
 
-1: Time or Frequency
-2: Body or Gravity
-3: Acceleration of Gyroscopic
-4: Jerk, Magnitude or Jerk Magnitude
-5: Mean or Std Dev
-6: X, Y or Z
-7: Activity names
+
+The units give us a ratio of 2 cm /4 cm=0.5. Since we perform operations with the same units
 
 For example tBodyACCmeanX_Laying
 
