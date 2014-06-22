@@ -21,7 +21,7 @@ means we have time, body,accelaration,mean,X while laying.
 
 there is a different row for each subject
 
-
+- Each variable is the mean measurement for each subject and activity combination
 
 ___ COLUMN NAMES ARE LISTED BELOW
   [1]"subject"                                             
